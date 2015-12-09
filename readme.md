@@ -3,3 +3,4 @@
  - feature-A
  - fix_B
  - feature-C
+ - feature-D
